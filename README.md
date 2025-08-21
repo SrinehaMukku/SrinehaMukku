@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srineha Mukku</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from India | Exploring Full-Stack & AI</h3>
+<p align="center">
+  🌟 Aspiring IT Engineer | 💡 Passionate about Software Development & Innovation <br/>
+  🔎 Eager to Explore and Excel | 💼 Ex-Intern @ Infosys Springboard <br/>
+  🎯 Executive Member of IET (On Campus) | 🌍 Hacktoberfest'23 Contributor
+</p>
 
----
-
-### 🌐 Connect with me
+<p align="center">
+  📍 Rajahmundry, Andhra Pradesh <br/>
+  🎓 Institution of Engineering and Technology (IET)
+</p>
+🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/srinehamukku" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinehamukku" height="30" width="40" />
